@@ -15,7 +15,7 @@ Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 
     SOURCE_TXT = """<b>ɴᴏᴛᴇ:
 - ᴛʜɪꜱ ʙᴏᴛ ɪꜱ ᴀɴ ᴏᴘᴇɴ ꜱᴏᴜʀᴄᴇ ᴘʀᴏᴊᴇᴄᴛ.
-- ꜱᴏᴜʀᴄᴇ - <a href="https://github.com/Joelkb/DQ-The-File-Donor">ʜᴇʀᴇ</a>
+- ꜱᴏᴜʀᴄᴇ - <a href="https://github.com/Joelkb">ʜᴇʀᴇ</a>
 Dᴇᴠᴇʟᴏᴘᴇʀ:
 - <a href="https://t.me/creatorbeatz">Jᴏᴇʟ ᠰ TɢX</a></b>"""
 
